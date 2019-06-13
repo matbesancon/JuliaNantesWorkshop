@@ -1,0 +1,13 @@
+name = "JuliaNantes"
+uuid = "7fb35628-6c01-11e9-23c6-4966daee5716"
+authors = ["Mathieu Besançon <mathieu.besancon@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+Colors = "5ae59095-9a9b-59fe-a467-6f913c188581"
+GraphPlot = "a2cc645c-3eea-5389-862e-a155d0052231"
+IJulia = "7073ff75-c697-5162-941a-fcdaad2a7d2a"
+LightGraphs = "093fc24a-ae57-5d10-9952-331d41423f4d"
+LightGraphsFlows = "2f5eb75a-258c-59e0-affc-f41c55f75335"
+MetaGraphs = "626554b9-1ddb-594c-aa3c-2596fe9399a5"
+SimpleWeightedGraphs = "47aef6b3-ad0c-573a-a1e2-d07658019622"
