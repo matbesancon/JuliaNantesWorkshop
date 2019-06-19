@@ -141,12 +141,6 @@ git-tree-sha1 = "c7222c370d5cf6d4e08ae40bddd8c0db6852dfb1"
 uuid = "093fc24a-ae57-5d10-9952-331d41423f4d"
 version = "1.2.0"
 
-[[LightGraphsFlows]]
-deps = ["LightGraphs", "LinearAlgebra", "Markdown", "MathProgBase", "SimpleTraits", "SparseArrays", "Test"]
-git-tree-sha1 = "0aa484c34ab15576b14df04ab29fb628b7ce46c1"
-uuid = "2f5eb75a-258c-59e0-affc-f41c55f75335"
-version = "0.3.0"
-
 [[LinearAlgebra]]
 deps = ["Libdl"]
 uuid = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
@@ -163,12 +157,6 @@ version = "0.5.0"
 [[Markdown]]
 deps = ["Base64"]
 uuid = "d6f4376e-aef5-505a-96c1-9c027394607a"
-
-[[MathProgBase]]
-deps = ["Compat"]
-git-tree-sha1 = "3bf2e534e635df810e5f4b4f1a8b6de9004a0d53"
-uuid = "fdba3010-5040-5b88-9595-932c9decdf73"
-version = "0.7.7"
 
 [[MbedTLS]]
 deps = ["BinaryProvider", "Dates", "Distributed", "Libdl", "Random", "Sockets", "Test"]
